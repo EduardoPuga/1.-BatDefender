@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 4c3388c9a09ac7d40848c48476693eac
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frutas 2_0
+    21300002: frutas 2_1
+    21300004: frutas 2_2
+    21300006: frutas 2_3
+    21300008: frutas 2_4
+    21300010: frutas 2_5
+    21300012: frutas 2_6
+    21300014: frutas 2_7
+    21300016: frutas 2_10
+    21300018: frutas 2_11
+    21300020: frutas 2_13
+    21300022: frutas 2_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: frutas 2_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 552
+        width: 143
+        height: 146
+      alignment: 9
+      pivot: {x: .487854272, y: .87175554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frutas 2_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 536
+        width: 126
+        height: 173
+      alignment: 9
+      pivot: {x: .486215502, y: .791146874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frutas 2_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 525
+        width: 125
+        height: 193
+      alignment: 9
+      pivot: {x: .54168433, y: .877965748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frutas 2_3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 549
+        width: 146
+        height: 151
+      alignment: 9
+      pivot: {x: .511896431, y: .77892983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frutas 2_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 306
+        width: 147
+        height: 159
+      alignment: 9
+      pivot: {x: .47636953, y: .797666371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frutas 2_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 285
+        width: 128
+        height: 200
+      alignment: 9
+      pivot: {x: .510176897, y: .864736795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frutas 2_6
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 303
+        width: 160
+        height: 169
+      alignment: 9
+      pivot: {x: .766106606, y: .891162753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frutas 2_7
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 316
+        width: 141
+        height: 142
+      alignment: 9
+      pivot: {x: .540033877, y: .83024466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frutas 2_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 165
+        height: 216
+      alignment: 9
+      pivot: {x: .438884705, y: .764550507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frutas 2_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 47
+        width: 164
+        height: 179
+      alignment: 9
+      pivot: {x: .489409477, y: .793516636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frutas 2_13
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 49
+        width: 123
+        height: 178
+      alignment: 9
+      pivot: {x: .517651081, y: .560984671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frutas 2_14
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 10
+        width: 71
+        height: 256
+      alignment: 9
+      pivot: {x: .438611537, y: .8475492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

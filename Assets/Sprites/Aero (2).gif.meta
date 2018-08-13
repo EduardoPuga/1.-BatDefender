@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 1d647265fafce484fa329a6a8a34fdfa
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Aero (2)_0
+    21300002: Aero (2)_3
+    21300004: Aero (2)_1
+    21300006: Aero (2)_4
+    21300008: Aero (2)_5
+    21300010: Aero (2)_2
+    21300012: Aero (2)_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Aero (2)_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 20
+        width: 33
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero (2)_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 19
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero (2)_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero (2)_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 19
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero (2)_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 18
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero (2)_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 18
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero (2)_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 17
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

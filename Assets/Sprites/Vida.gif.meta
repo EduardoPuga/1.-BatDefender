@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: dd8630d825fe45047a5a6ad6a21546db
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Vida_10
+    21300002: Vida_9.5
+    21300004: Vida_9
+    21300006: Vida_8.5
+    21300008: Vida_8
+    21300010: Vida_7.5
+    21300012: Vida_7
+    21300014: Vida_6.5
+    21300016: Vida_6
+    21300018: Vida_5.5
+    21300020: Vida_5
+    21300022: Vida_4.5
+    21300024: Vida_4
+    21300026: Vida_3.5
+    21300028: Vida_3
+    21300030: Vida_2.5
+    21300032: Vida_2
+    21300034: Vida_1.5
+    21300036: Vida_1
+    21300038: Vida_0.5
+    21300040: Vida_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Vida_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 686
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_9.5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 653
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 618
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_8.5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 585
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 551
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_7.5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 516
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 480
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_6.5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 413
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_5.5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 379
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 342
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_4.5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 308
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 273
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_3.5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 205
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_2.5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_1.5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 103
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_0.5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vida_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 319
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

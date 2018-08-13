@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 0eeb7e1ff94598e40a6eedf971aa1a83
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Aero_0
+    21300002: Aero_2
+    21300004: Aero_1
+    21300006: Aero_3
+    21300008: Aero_4
+    21300010: Aero_5
+    21300012: Aero_6
+    21300014: Aero_7
+    21300016: Aero_8
+    21300018: Aero_9
+    21300020: Aero_10
+    21300022: Aero_11
+    21300024: Aero_12
+    21300026: Aero_13
+    21300028: Aero_14
+    21300030: Aero_15
+    21300032: Aero_16
+    21300034: Aero_17
+    21300036: Aero_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Aero_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 185
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 182
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 185
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 182
+        width: 26
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 182
+        width: 26
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 182
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 182
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 182
+        width: 25
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 182
+        width: 25
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 182
+        width: 23
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 13
+        width: 19
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 18
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 18
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 17
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 9
+        width: 25
+        height: 42
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 9
+        width: 37
+        height: 42
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_16
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 9
+        width: 40
+        height: 41
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_17
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 9
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aero_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 7
+        width: 40
+        height: 52
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

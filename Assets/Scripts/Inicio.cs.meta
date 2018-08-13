@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b73ec5ad95cec324ea2cec62df9799c8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - isla_1: {fileID: 157680, guid: 073c60d9c0b45324695660af7d26fc2c, type: 2}
+  - isla_2: {fileID: 116298, guid: 26eae78fdf3b24a4bbe12c2b0d70afb6, type: 2}
+  - isla_3: {fileID: 107744, guid: 9d8714460babb9d47877c258addbd289, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2621a95f389131149be836151482dd30
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - laserController: {instanceID: 0}
+  - smoke: {instanceID: 0}
+  - reposo: {fileID: 21300000, guid: 0eeb7e1ff94598e40a6eedf971aa1a83, type: 3}
+  - agachado: {fileID: 21300004, guid: 0eeb7e1ff94598e40a6eedf971aa1a83, type: 3}
+  - cayendo: {fileID: 21300024, guid: 0eeb7e1ff94598e40a6eedf971aa1a83, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
